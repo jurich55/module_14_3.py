@@ -9,7 +9,7 @@ import asyncio
 from pyexpat.errors import messages
 
 #     Создание бота и диспетчера
-api = "7847322025:AAF5Ui_CyLwZK_DRxeg5DwHpwAP0DXnk5xg"
+api = "****"
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
